@@ -6,7 +6,7 @@ Bienvenido/a a la guía de MuleSoft. Aquí aprenderás cómo registrarte y acced
 
 ## 🚀 Registro en Trailhead  
 1. Ir a la plataforma de aprendizaje de Salesforce  [Trailhead](https://trailhead.salesforce.com/es)  
-2. Crear una cuenta con el boton Registrar y utilizando  tu correo electrónico o una cuenta existente de Google, Salesforce, Mulesoft y Tableu.
+2. Crear una cuenta con el boton Registrar y completa el registro utilizando  tu correo electrónico o una cuenta existente de Google, Salesforce, Mulesoft y Tableu.
 ![Formulario de Registro a Trailhead](images/Register.png)
 
 
